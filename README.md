@@ -1,5 +1,7 @@
 # Core-pkgs (WIP)
 
+Test
+
 This repository is meant to be the provider of most common
 development concerns for a nixpkgs fork. There should
 be a high degree of scrutiny and quality put into the nix
