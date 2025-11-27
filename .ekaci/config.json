@@ -1,6 +1,6 @@
 {
   "jobs": {
-    "ci": {
+    "all-packages": {
       "file": "/eka-ci-jobs.nix"
     }
   }
